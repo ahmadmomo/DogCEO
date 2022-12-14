@@ -1,2 +1,2 @@
-# newproject
-new project to submit to github
+# Website to generate dog images
+generate cute dog images using dog ceo API.

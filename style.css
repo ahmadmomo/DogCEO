@@ -16,12 +16,20 @@ body{
     margin: 5px;
     padding: 5px;
     border: 1px black solid;
-    width: auto;
-    height: auto;
+    width: 500px;
+    height: 500px;
     align-self: center;
+    border-radius: 20px;
 }
 .button{
-    background-color:azure;
+    background-color:white;
+    border: 1px solid;
     align-self: center;
     font-size: 25px;
+    border-radius: 20px;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
 }
